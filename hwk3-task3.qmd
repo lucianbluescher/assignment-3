@@ -1,0 +1,26 @@
+# Task 3: Considerations in High Dimensions
+
+## Concept: Dimensionality and the Curse of Dimensionality
+
+## Prompt
+I am a Environmental Data Science master students who sucks at math and is learning machine learning from the book An Introduction to Statistical Learning with applications in Python. In the Considerations in High Dimensions section I do not understand the whole dimensions thing especially the curse of dimensionality. 
+
+Explain it to a 10 year old using analogies to the African Savannah (bonus pts for elephants) 
+
+Create a visual if you can.
+
+Avoid saying the phrase "machine learning"
+
+## Reflection
+
+I used (Ecosia ai-chat)[https://www.ecosia.org/ai-chat] and simply gave it the prompt above. It only took one iteration to understand what dimensionality was. It surpisinlgy did a really good job of explaining it, not with information from the textbook, I basically told it not too. But with analogies that I could link to the textbook using my own brain. For example it said;
+
+> Now imagine 100 dimensions—the savannah is so big and complicated that finding you is like looking for a needle in a haystack the size of the whole savannah!
+
+Then suggested a fix;
+
+> Simplify the game: Agree on fewer hiding spots (fewer dimensions).
+> Use better tools: Bring binoculars (better algorithms) to search faster.
+> Focus on what matters: Look for friends near elephants instead of checking every bush.
+
+Simplifying the game is like reducing the number of feautures in a dataset, using better tools is like using more sophisticated algorithms, and focusing on what matters is like feature selection. I'm not even going to lie Ecosia AI lowkey ate with this one and now I understand dimensions which is kind of the backbone of a lot of ML and I was just pretending like I understood what was going on. 
